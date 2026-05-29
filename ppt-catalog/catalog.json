@@ -1,11 +1,12 @@
 [
   {
-    "slug": "jarvis-superpower-portal",
-    "name": "賈維斯超能力入口網站",
-    "desc": "賈維斯新帳號使用的客戶對接與能力展示固定入口，包含網址列表、Google Drive 檔案總管、HTML PPT 目錄與技能列表。",
-    "source": "Jason 指示依原 eclife-lianghsing.github.io/html-ppt-catalog/ 架構重新製作全新賈維斯網站",
+    "slug": "william-ubco",
+    "name": "William UBC Okanagan 新生與家長陪同手冊",
+    "desc": "UBC Okanagan 校區評估、住宿交通、生活採買、科系出路、Jason 九月陪同 2-3 週行程與行前清單。",
+    "source": "reports/William_UBC_Okanagan_參考調查_2026-05-29.md",
     "date": "2026-05-29",
-    "category": "AI 入口網站",
-    "status": "published"
+    "category": "家庭 / 留學 / 校區調查",
+    "status": "published",
+    "url": "./william-ubco/"
   }
 ]

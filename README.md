@@ -17,7 +17,8 @@ open http://127.0.0.1:8765/
 - `/ppt-catalog/`：HTML PPT 目錄
 - `/jarvis-skills.html`：賈維斯技能列表
 
-## 發佈注意
+## GitHub Pages
 
-目前本機 `gh` active account 顯示為 `Eclife-LiangHsing` / `Ec-Life`，看起來不是 Fiona。
-在確認 Fiona GitHub 帳號前，不要把本 repo 推上 GitHub Pages，避免發佈到小興/良興帳號。
+正式發布位置：
+
+https://fiona19901231.github.io/jarvis-superpower-portal/
